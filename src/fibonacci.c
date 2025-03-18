@@ -11,7 +11,7 @@ int main()
     do{
         scanf("%d", &n);
         iniciarFibonacci(n);
-    }while (n != -1);
+    }while (n != -1);hg
     
     
 }
